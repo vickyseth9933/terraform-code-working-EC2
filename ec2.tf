@@ -1,3 +1,4 @@
+#adding resource for aws
 resource "aws_instance" "web" {
   #including count parameter, so here count is 2 , we can change it from var value
   count = var.web-count
