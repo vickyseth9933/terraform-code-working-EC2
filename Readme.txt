@@ -1,5 +1,7 @@
-Terraform code create multiple files
-adding another line
+#one testing line added
+Terraform code create
+
+>>>>>>> 29f5f7557a53625159cd4016c972baaea64307f1
 VPC
 Subnet ( private & public )
 IGW
